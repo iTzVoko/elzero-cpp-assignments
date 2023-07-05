@@ -1,3 +1,8 @@
+/*
+ * بسم الله الرحمن الرحيم
+ *
+ * Solved by: @iTzVoko
+ */
 #include <iostream>
 
 int main()
