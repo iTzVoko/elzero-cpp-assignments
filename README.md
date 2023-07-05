@@ -8,5 +8,6 @@ Solutions for the C++ assignments by Osama Elzero (God bless him) in his Fundame
 
 ## ✅ Progress
 
-- [ ] Assignments (1-8)
-  - Progress: (2/5)
+- [x] Assignments (1-8)
+- [ ] Assignments (9-15)
+  - Progress: (0/6)
