@@ -4,6 +4,10 @@
 
 Solutions for the C++ assignments by Osama Elzero (God bless him) in his Fundamentals Of Programming With C++ course.
 
+> **Note**
+> Try to solve these assignments before seeing their solutions, by watching the required videos for each assignment, and searching on Google.
+> This will make you better at thinking how to solve a real problem when it arrives to you.
+
 ---
 
 ## ✅ Progress
