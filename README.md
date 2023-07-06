@@ -15,3 +15,13 @@ Solutions for the C++ assignments by Osama Elzero (God bless him) in his Fundame
 - [x] Assignments (1-8)
 - [ ] Assignments (9-15)
   - Progress: (4/11)
+
+## Special Thanks
+
+Thanks go to the wonderful person, Osama, may Allah bless him ❤️
+
+<a href="https://github.com/OsamaElzero">
+  <img src="https://avatars.githubusercontent.com/u/3822745?v=4" alt="Osama Elzero" width="200px">
+  <br>
+  Osama Elzero
+</a>
