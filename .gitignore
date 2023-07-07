@@ -1,5 +1,7 @@
 .vscode/
 
+template.cpp
+
 # Prerequisites
 *.d
 
