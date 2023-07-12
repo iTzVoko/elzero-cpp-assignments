@@ -11,14 +11,14 @@ int main()
 {
 	/*
   We Need To Use This Operators In Solutions
-  - &&	DONE
-  - >=	DONE
-  - <=	DONE
-  - >	DONE
-  - <	DONE
-  - ==	DONE
-  - !	DONE
-  - ||	DONE
+  - &&
+  - >=
+  - <=
+  - >
+  - <
+  - ==
+  - !
+  - ||
 */
 
 	int a = 10;
