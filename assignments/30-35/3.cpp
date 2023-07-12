@@ -2,6 +2,8 @@
  * بسم الله الرحمن الرحيم
  *
  * Solved by: @iTzVoko
+ * Note: In the second condition, I used >= instead of using only > to handle
+ * 		 the number 10 too.
  */
 #include <iostream>
 
