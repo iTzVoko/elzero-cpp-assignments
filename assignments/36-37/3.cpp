@@ -12,6 +12,7 @@ int main()
 	int num;
 	cin >> num;
 
+	// First Solution
 	switch (num)
 	{
 	case 10:
@@ -33,7 +34,6 @@ int main()
 	}
 
 	// This is a Shorter Solution
-	/*
 	switch (num)
 	{
 	case 10:
@@ -47,7 +47,6 @@ int main()
 	default:
 		cout << "Invalid Number\n";
 	}
-	*/
 
 	/*
 	if (num == 10)
