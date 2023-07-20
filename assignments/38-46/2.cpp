@@ -2,7 +2,6 @@
  * بسم الله الرحمن الرحيم
  *
  * Solved by: @iTzVoko
- * Note: You can use { } to define variables with the same name; that's because they have different scopes.
  */
 #include <iostream>
 
@@ -10,95 +9,85 @@ int main()
 {
 	// Example 1
 	{
-		int vals[]{100, 200, 250, 400, 200};
+		int check = 25;
+		int nums[]{40, 20, 30, 70, 100};
 
-		// Needed Output
-		// "First Number + Last Number Is Larger Than Middle Number"
-		// "100 + 200 = 300"
-		// "300 > 250"
-		if (vals[0] + vals[4] > vals[2])
+		// Ouput
+		// "{40} + {70} = 110"
+
+		if (nums[0] > check)
 		{
-			std::cout
-				<< "First Number + Last Number Is Larger Than Middle Number\n"
-				<< vals[0] << " + " << vals[4] << '\n'
-				<< vals[0] + vals[4] << " > " << vals[2] << '\n';
+			std::cout << "{" << nums[0] << "} + ";
+			std::cout << "{" << nums[3] << "} = ";
+			std::cout << nums[0] + nums[3] << '\n';
 		}
-		else if (vals[1] + vals[3] > vals[2])
+		else if (nums[1] > check)
 		{
-			std::cout
-				<< "Second Number + Before Last Number Is Larger Than Middle Number\n"
-				<< vals[1] << " + " << vals[3] << '\n'
-				<< vals[1] + vals[3] << " > " << vals[2] << '\n';
+			std::cout << "{" << nums[1] << "} + ";
+			std::cout << "{" << nums[3] << "} = ";
+			std::cout << nums[1] + nums[3] << '\n';
 		}
 		else
 		{
-			std::cout
-				<< "Middle Number Is Larger Than Middle Number\n"
-				<< vals[1] << " + " << vals[3] << '\n'
-				<< vals[1] + vals[3] << " > " << vals[2] << '\n';
+			std::cout << "{" << nums[2] << "} + ";
+			std::cout << "{" << nums[3] << "} = ";
+			std::cout << nums[2] + nums[3] << '\n';
 		}
 	}
 
 	// Example 2
 	{
-		int vals[]{100, 200, 500, 400, 200};
+		int check = 25;
+		int nums[]{20, 35, 30, 70, 100};
 
-		// Needed Output
-		// "Second Number + Before Last Number Is Larger Than Middle Number"
-		// "200 + 400 = 600"
-		// "600 > 500"
+		// Ouput
+		// "{35} + {70} = 105"
 
-		if (vals[0] + vals[4] > vals[2])
+		if (nums[0] > check)
 		{
-			std::cout
-				<< "First Number + Last Number Is Larger Than Middle Number\n"
-				<< vals[0] << " + " << vals[4] << '\n'
-				<< vals[0] + vals[4] << " > " << vals[2] << '\n';
+			std::cout << "{" << nums[0] << "} + ";
+			std::cout << "{" << nums[3] << " } = ";
+			std::cout << nums[0] + nums[3] << '\n';
 		}
-		else if (vals[1] + vals[3] > vals[2])
+		else if (nums[1] > check)
 		{
-			std::cout
-				<< "Second Number + Before Last Number Is Larger Than Middle Number\n"
-				<< vals[1] << " + " << vals[3] << '\n'
-				<< vals[1] + vals[3] << " > " << vals[2] << '\n';
+			std::cout << "{" << nums[1] << "} + ";
+			std::cout << "{" << nums[3] << "} = ";
+			std::cout << nums[1] + nums[3] << '\n';
 		}
 		else
 		{
-			std::cout
-				<< "Middle Number Is Larger Than Middle Number\n"
-				<< vals[1] << " + " << vals[3] << '\n'
-				<< vals[1] + vals[3] << " > " << vals[2] << '\n';
+			std::cout << "{" << nums[2] << "} + ";
+			std::cout << "{" << nums[3] << "} = ";
+			std::cout << nums[2] + nums[3] << '\n';
 		}
 	}
 
-	// Example 3
+	// Example 2
 	{
-		int vals[]{100, 200, 600, 400, 200};
+		int check = 25;
+		int nums[]{20, 25, 30, 70, 100};
 
-		// Needed Output
-		// "Middle Number Is The Largest"
-		// "600"
+		// Ouput
+		// "{30} + {70} = 100"
 
-		if (vals[0] + vals[4] > vals[2])
+		if (nums[0] > check)
 		{
-			std::cout
-				<< "First Number + Last Number Is Larger Than Middle Number\n"
-				<< vals[0] << " + " << vals[4] << '\n'
-				<< vals[0] + vals[4] << " > " << vals[2] << '\n';
+			std::cout << "{" << nums[0] << "} + ";
+			std::cout << "{" << nums[3] << " } = ";
+			std::cout << nums[0] + nums[3] << '\n';
 		}
-		else if (vals[1] + vals[3] > vals[2])
+		else if (nums[1] > check)
 		{
-			std::cout
-				<< "Second Number + Before Last Number Is Larger Than Middle Number\n"
-				<< vals[1] << " + " << vals[3] << '\n'
-				<< vals[1] + vals[3] << " > " << vals[2] << '\n';
+			std::cout << "{" << nums[1] << "} + ";
+			std::cout << "{" << nums[3] << "} = ";
+			std::cout << nums[1] + nums[3] << '\n';
 		}
 		else
 		{
-			std::cout
-				<< "Middle Number Is Larger Than Middle Number\n"
-				<< vals[1] << " + " << vals[3] << '\n'
-				<< vals[1] + vals[3] << " > " << vals[2] << '\n';
+			std::cout << "{" << nums[2] << "} + ";
+			std::cout << "{" << nums[3] << "} = ";
+			std::cout << nums[2] + nums[3] << '\n';
 		}
 	}
 
