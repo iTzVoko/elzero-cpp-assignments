@@ -2,13 +2,14 @@
  * بسم الله الرحمن الرحيم
  *
  * Solved by: @iTzVoko
+ * Note: You can use { } to define variables with the same name; that's because they have different scopes.
  */
 #include <iostream>
 
 int main()
 {
+	// Example 1
 	{
-		// Example 1
 		int vals[]{100, 200, 250, 400, 200};
 
 		// Needed Output
@@ -35,12 +36,11 @@ int main()
 				<< "Middle Number Is Larger Than Middle Number\n"
 				<< vals[1] << " + " << vals[3] << '\n'
 				<< vals[1] + vals[3] << " > " << vals[2] << '\n';
-
 		}
 	}
 
+	// Example 2
 	{
-		// Example 2
 		int vals[]{100, 200, 500, 400, 200};
 
 		// Needed Output
@@ -48,7 +48,7 @@ int main()
 		// "200 + 400 = 600"
 		// "600 > 500"
 
-				if (vals[0] + vals[4] > vals[2])
+		if (vals[0] + vals[4] > vals[2])
 		{
 			std::cout
 				<< "First Number + Last Number Is Larger Than Middle Number\n"
@@ -68,19 +68,18 @@ int main()
 				<< "Middle Number Is Larger Than Middle Number\n"
 				<< vals[1] << " + " << vals[3] << '\n'
 				<< vals[1] + vals[3] << " > " << vals[2] << '\n';
-
 		}
 	}
 
+	// Example 3
 	{
-		// Example 3
 		int vals[]{100, 200, 600, 400, 200};
 
 		// Needed Output
 		// "Middle Number Is The Largest"
 		// "600"
 
-				if (vals[0] + vals[4] > vals[2])
+		if (vals[0] + vals[4] > vals[2])
 		{
 			std::cout
 				<< "First Number + Last Number Is Larger Than Middle Number\n"
@@ -100,7 +99,6 @@ int main()
 				<< "Middle Number Is Larger Than Middle Number\n"
 				<< vals[1] << " + " << vals[3] << '\n'
 				<< vals[1] + vals[3] << " > " << vals[2] << '\n';
-
 		}
 	}
 
