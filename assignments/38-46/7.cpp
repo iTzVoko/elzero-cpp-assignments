@@ -16,21 +16,9 @@ int main()
 {
 	// Create The Array Here
 	string names[3][3] = {
-		{
-			"Ahmed",
-			"Sayed",
-			"Mahmoud",
-		},
-		{
-			"Sameh",
-			"Mahdy",
-			"Gamal",
-		},
-		{
-			"Mohamed",
-			"Adel",
-			"Majed",
-		},
+		{"Ahmed", "Sayed", "Mahmoud"},
+		{"Sameh", "Mahdy", "Gamal"},
+		{"Mohamed", "Adel", "Majed"},
 	};
 
 	cout << "First Collection Of Names:\n";
