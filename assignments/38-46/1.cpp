@@ -2,8 +2,11 @@
  * بسم الله الرحمن الرحيم
  *
  * Solved by: @iTzVoko
+ * Note: `#include <string>` Should always be used when using string data type.
+ * 		 But Osama Elzero usually doesn't add it, I don't know why.
  */
 #include <iostream>
+#include <string>
 
 using namespace std;
 
