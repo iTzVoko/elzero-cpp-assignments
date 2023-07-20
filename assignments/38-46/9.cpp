@@ -2,6 +2,12 @@
  * بسم الله الرحمن الرحيم
  *
  * Solved by: @iTzVoko
+ * Note: "std::end" points to the last element in the array plus one (after
+ *		 the number 50 in this case) in the computer memory, and "std::begin"
+ * 		 points to the first
+ *		 element in the array (10), so we calculated the distance between them
+ *		 (how many elements between them) by subtracting.
+ * Note: "points to" means refers to a place in memory.
  */
 #include <iostream>
 
