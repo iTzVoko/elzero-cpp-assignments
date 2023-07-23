@@ -1,6 +1,5 @@
 #include <array>
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
 int main()
@@ -11,8 +10,14 @@ int main()
 	array<int, 3> newNums;
 
 	// Write Your Code Here
-	newNums = oldNums;
-	reverse(begin(newNums), end(oldNums));
+	index--; // 0
+	newNums[index] = oldNums.back();
+
+	index++; // 1
+	newNums[index] = oldNums.at(index);
+
+	index++; // 2
+	newNums[index] = oldNums.front();
 
 	// Do Not Edit The Next 3 Lines
 	cout << newNums[0] << "\n"; // 30
