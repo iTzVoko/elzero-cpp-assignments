@@ -1,6 +1,8 @@
 .vscode/
 
+# Helpers
 template.cpp
+assignments/webpages
 
 # Prerequisites
 *.d
