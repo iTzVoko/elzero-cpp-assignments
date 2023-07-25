@@ -14,6 +14,7 @@ int main()
 	// 30
 	// 62
 	// 126
+
 	// For loop
 	for (int i = 2; i <= 126; i = i * 2 + 2)
 	{

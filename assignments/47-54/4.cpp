@@ -16,6 +16,7 @@ int main()
 	// 14
 	// 16
 	// 18
+	
 	// For loop
 	for (int i = 0; i <= 18; i += 2)
 	{

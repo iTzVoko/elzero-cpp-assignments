@@ -12,6 +12,7 @@ int main()
 	// 100
 	// 10000
 	// 100000000
+	
 	// For loop
 	for (int i = 10; i <= 100000000; i *= i)
 	{
@@ -20,7 +21,7 @@ int main()
 
 	// While loop
 	int i = 10;
-		
+
 	while (i <= 100000000)
 	{
 		std::cout << i << '\n';
