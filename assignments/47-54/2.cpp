@@ -13,13 +13,13 @@ int main()
 
 	for (;;) // <= Do Not Edit This Line
 	{
-		// If index variable is bigger than 8, then stop the loop (break)
-		if (index > 8)
-			break;
-
 		cout << index << "\n"; // From 2 To 10
 
 		index++;
+
+		// If index variable is bigger than 8, then stop the loop (break)
+		if (index > 8)
+			break;
 	}
 
 	// Output
