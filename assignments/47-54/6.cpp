@@ -12,12 +12,14 @@ int main()
 	// 100
 	// 10000
 	// 100000000
-	
+
 	// For loop
 	for (int i = 10; i <= 100000000; i *= i)
 	{
 		std::cout << i << '\n';
 	}
+
+	std::cout << "============\n";
 
 	// While loop
 	int i = 10;

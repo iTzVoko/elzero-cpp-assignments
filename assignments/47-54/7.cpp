@@ -15,12 +15,14 @@ int main()
 	// 32
 	// 64
 	// 128
-	
+
 	// For loop
 	for (int i = 2; i <= 128; i *= 2)
 	{
 		std::cout << i << '\n';
 	}
+
+	std::cout << "============\n";
 
 	// While loop
 	int i = 2;

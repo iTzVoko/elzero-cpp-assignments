@@ -16,7 +16,7 @@ int main()
 	// 14
 	// 16
 	// 18
-	
+
 	// For loop
 	for (int i = 0; i <= 18; i += 2)
 	{
@@ -25,6 +25,8 @@ int main()
 
 		std::cout << i << '\n';
 	}
+
+	std::cout << "============\n";
 
 	// While loop
 	int i = 0;

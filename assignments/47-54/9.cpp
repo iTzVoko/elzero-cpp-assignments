@@ -23,6 +23,8 @@ int main()
 		cout << friends[i] << '\n';
 	}
 
+	std::cout << "============\n";
+
 	// While loop
 	int i = 1;
 

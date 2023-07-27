@@ -24,6 +24,8 @@ int main()
 		std::cout << i << '\n';
 	}
 
+	std::cout << "============\n";
+
 	// While Output
 	// 0
 	// 1

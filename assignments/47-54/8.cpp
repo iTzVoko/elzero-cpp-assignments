@@ -21,6 +21,8 @@ int main()
 		std::cout << i << '\n';
 	}
 
+	std::cout << "============\n";
+
 	// While loop
 	int i = 2;
 
