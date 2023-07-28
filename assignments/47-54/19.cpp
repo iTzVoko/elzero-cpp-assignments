@@ -10,9 +10,7 @@ int main()
 	for (int i = 100; i <= 1100; i += 100)
 	{
 		if (i != 100 && i != 1100)
-		{
 			std::cout << i << '\n';
-		}
 
 		std::cout << i << '\n';
 	}
