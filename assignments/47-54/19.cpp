@@ -12,12 +12,9 @@ int main()
 		if (i != 100 && i != 1100)
 		{
 			std::cout << i << '\n';
-			std::cout << i << '\n';
 		}
-		else
-		{
-			std::cout << i << '\n';
-		}
+
+		std::cout << i << '\n';
 	}
 
 	// Output Needed
