@@ -19,8 +19,9 @@ Solutions for the C++ assignments by Osama Elzero (God bless him) in his Fundame
 - [x] Assignments (30-35)
 - [x] Assignments (36-37)
 - [x] Assignments (38-46)
-- [ ] Assignments (47-54)
-  - Progress: (19/20)
+- [x] Assignments (47-54)
+- [ ] Assignments (55-66)
+  - Progress: (0/17)
 
 ## Special Thanks
 
