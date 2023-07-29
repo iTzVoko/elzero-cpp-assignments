@@ -7,6 +7,17 @@
 
 int main()
 {
+	int i = 100;
+	while (i <= 1000)
+	{
+		std::cout << i << '\n';
+		i += 100;
+		std::cout << i << '\n';
+	}
+
+	std::cout << "============\n";
+
+	// We can solve it also using for loop
 	for (int i = 100; i <= 1100; i += 100)
 	{
 		if (i != 100 && i != 1100)
