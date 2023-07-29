@@ -1,5 +1,6 @@
 /*
  * بسم الله الرحمن الرحيم
+ * اللهم صلِّ على محمد وآل محمد
  *
  * Solved by: @iTzVoko
  * Note: You can check the ASCII Value (number) of a certain character by using int(the_character)

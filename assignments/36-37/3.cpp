@@ -1,5 +1,6 @@
 /*
  * بسم الله الرحمن الرحيم
+ * اللهم صلِّ على محمد وآل محمد
  *
  * Solved by: @iTzVoko
  * Note: There are two solutions in this assignment, the second one is shorter.

@@ -1,5 +1,6 @@
 /*
  * بسم الله الرحمن الرحيم
+ * اللهم صلِّ على محمد وآل محمد
  *
  * Solved by: @iTzVoko
  * Note: I did 6 fixes to the comments

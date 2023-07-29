@@ -1,5 +1,6 @@
 /*
  * بسم الله الرحمن الرحيم
+ * اللهم صلِّ على محمد وآل محمد
  *
  * Solved by: @iTzVoko
  * Note: Watch ternary operator video to understand the code:

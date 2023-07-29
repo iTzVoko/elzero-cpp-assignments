@@ -1,5 +1,6 @@
 /*
  * بسم الله الرحمن الرحيم
+ * اللهم صلِّ على محمد وآل محمد
  *
  * Solved by: @iTzVoko
  * Note: "std::end" points to the last element in the array plus one (after
