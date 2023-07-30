@@ -21,7 +21,7 @@ Solutions for the [C++ assignments](https://elzero.org/category/assignments/cpp-
 - [x] Assignments (38-46)
 - [x] Assignments (47-54)
 - [ ] Assignments (55-66)
-  - Progress: (7/17)
+  - Progress: (16/17)
 
 ## Special Thanks
 
