@@ -2,7 +2,7 @@
 
 ![Elzero Web School C++ Assignments Banner](https://github.com/iTzVoko/elzero-cpp-assignments/assets/70109144/1f22f63f-995b-491d-868d-89d415717dbb)
 
-Solutions for the C++ assignments by Osama Elzero (God bless him) in his Fundamentals Of Programming With C++ course.
+Solutions for the [C++ assignments](https://elzero.org/category/assignments/cpp-assignments/) by [Osama Elzero](https://www.facebook.com/OsElzero/) (God bless him) in his [Fundamentals Of Programming With C++](https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) course in [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool) YouTube channel.
 
 > **Note**:
 > Try to solve these assignments before seeing their solutions, by watching the required videos for each assignment, and searching on Google.
