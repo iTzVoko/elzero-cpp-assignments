@@ -20,8 +20,9 @@ Solutions for the [C++ assignments](https://elzero.org/category/assignments/cpp-
 - [x] Assignments (36-37)
 - [x] Assignments (38-46)
 - [x] Assignments (47-54)
-- [ ] Assignments (55-66)
-  - Progress: (16/17)
+- [x] Assignments (55-66)
+- [ ] Assignments (67-74)
+  - Progress: (0/18)
 
 ## Special Thanks
 
