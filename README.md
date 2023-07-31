@@ -22,7 +22,7 @@ Solutions for the [C++ assignments](https://elzero.org/category/assignments/cpp-
 - [x] Assignments (47-54)
 - [x] Assignments (55-66)
 - [ ] Assignments (67-74)
-  - Progress: (0/18)
+  - Progress: (3/18)
 
 ## Special Thanks
 
