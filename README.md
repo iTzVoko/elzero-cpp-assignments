@@ -12,7 +12,7 @@ Solutions for the [C++ assignments](https://elzero.org/category/assignments/cpp-
 
 ## Related Repos
 
-- Solutions to Elzero C++ Assignments repo: [here](https://github.com/iTzVoko/codewars-cpp-solutions).
+- Solutions to CodeWars C++ Problems of Elzero Playlist repo: [here](https://github.com/iTzVoko/codewars-cpp-solutions).
 
 ## ✅ Progress
 
