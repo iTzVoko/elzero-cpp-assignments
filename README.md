@@ -10,6 +10,10 @@ Solutions for the [C++ assignments](https://elzero.org/category/assignments/cpp-
 
 ---
 
+## Related Repos
+
+- Solutions to Elzero C++ Assignments repo: [here](https://github.com/iTzVoko/codewars-cpp-solutions).
+
 ## ✅ Progress
 
 - [x] Assignments (1-8)
